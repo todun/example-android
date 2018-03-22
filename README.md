@@ -1,7 +1,7 @@
 
 [![Build Status](https://travis-ci.org/codecov/example-android.svg?branch=master)](https://travis-ci.org/codecov/example-android)
-[![codecov.io](https://codecov.io/github/codecov/example-android/branch/master/graph/badge.svg)](https://codecov.io/github/codecov/example-android)
-# [Codecov](https://codecov.io) Android Example
+[![travis](https://travis-ci.org/todun/example-android.svg?branch=master)](https://github.com/todun/example-android)
+# [Travis](https://travis-ci.org/todun/example-android) Android Example
 ## Guide
 #### Travis Setup
 If you use [Travis CI](https://travis-ci.org) as your continuous integration server you can
@@ -37,12 +37,5 @@ Running the command below generates the reports:
 ```
 ## Support
 ### Contact
-- Intercom (in-app messanger)
-- Email: support@codecov.io
-- Slack: slack.codecov.io
-- [gh/codecov/support](https://github.com/codecov/support)
+- TBA
 
-
-1. More documentation at https://docs.codecov.io
-2. Configure codecov through the `codecov.yml`  https://docs.codecov.io/docs/codecov-yaml
-3. View source and learn more about [Codecov Global Uploader](https://github.com/codecov/codecov-bash)
